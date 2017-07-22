@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.form-custom {
+  font-family: "Gloria Hallelujah";
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+.button-custom {
+  font-family: "Gloria Hallelujah";
+  margin-right: 15px;
+}
+
+.header {
+  font-family: "Gloria Hallelujah";
+  text-shadow: 2px 2px 2px black;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  padding-top: 10px;
+  background-color: #FF541A;
+  color: white;
+}
+
+
+.img-wrap {
+  width: 100%;
+  height: 200px;
+  margin-top: 30px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  font-family: "Gloria Hallelujah";
+  text-shadow: 2px 2px 2px black;
+}
+
+.desc {
+  color: white;
+  font-size: 16px;
+  font-family: "Gloria Hallelujah";
+  text-shadow: 2px 2px 2px black;
+  text-align: center;
+  margin-top: 150px;
+}
